@@ -1,0 +1,10 @@
+C:\Users\Unieye\Desktop\10.21 모터\motion\motion\bin\Debug\motion.exe.config
+C:\Users\Unieye\Desktop\10.21 모터\motion\motion\bin\Debug\motion.exe
+C:\Users\Unieye\Desktop\10.21 모터\motion\motion\bin\Debug\motion.pdb
+C:\Users\Unieye\Desktop\10.21 모터\motion\motion\obj\Debug\motion.csprojAssemblyReference.cache
+C:\Users\Unieye\Desktop\10.21 모터\motion\motion\obj\Debug\motion.Form1.resources
+C:\Users\Unieye\Desktop\10.21 모터\motion\motion\obj\Debug\motion.Properties.Resources.resources
+C:\Users\Unieye\Desktop\10.21 모터\motion\motion\obj\Debug\motion.csproj.GenerateResource.cache
+C:\Users\Unieye\Desktop\10.21 모터\motion\motion\obj\Debug\motion.csproj.CoreCompileInputs.cache
+C:\Users\Unieye\Desktop\10.21 모터\motion\motion\obj\Debug\motion.exe
+C:\Users\Unieye\Desktop\10.21 모터\motion\motion\obj\Debug\motion.pdb
